@@ -1,0 +1,169 @@
+.nav-item{
+    padding-right: 20px;
+}
+.icon{
+     float: right;
+     justify-items: end;
+     padding-left: 80px;
+}
+.btnn{
+    border: none;
+    padding: 10px 30px 10px 30px;
+    background-color: #39DB4A;
+    color: white;
+    border-radius: 20px;
+}
+/* banner */
+.banner{
+    background-color: #fafafa;
+}
+container{
+    background-color: #fafafa;
+}
+/* categories */
+.bg{
+    background-color: #C1F1C6 ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 50%;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.textspan{
+    margin-top: -12px;
+    font-weight: 300;
+}
+.cardd{
+    border-radius: 30px;
+}
+
+/* special dishes */
+.span{
+    padding: 15px;
+    border-radius: 50%;
+    color: white;
+    background-color: #39DB4A;
+}
+.spann{
+    padding: 15px;
+    border-radius: 50%;
+    color: white;
+    background-color: lightgray;
+}
+
+.cardd{
+    background-color: white;
+    
+    
+}
+.hearticon{
+    background-color: #39DB4A;
+    padding: 15px;
+    color: white;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 10px;
+}
+/* our story and services */
+.button{
+    border: none;
+    padding-right: 30px;
+    background-color: #39DB4A;
+    color: white;
+    border-radius: 30px;
+}
+.eat{
+    color: #39DB4A;
+    border-radius: 10px;
+    font-size: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: none;   
+    /* box-shadow: 1px solid grey;  */
+}
+.time{
+    color: #39DB4A;
+    /* box-shadow: 1px solid grey; */
+    border-radius: 10px;
+    font-size: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: none;
+}
+.bag{
+    color: #39DB4A;
+    /* box-shadow: 1px solid grey; */
+    border-radius: 10px;
+    font-size: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: none;
+}
+.suprise{
+    color: #39DB4A;
+    /* box-shadow: 1px solid grey; */
+    border-radius: 10px;
+    font-size: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: none;
+}
+/* footer */
+footer{
+    background: #fcfcfc;
+    padding-top: 50px;
+}
+.container3{
+    width: 1140px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.footer-content{
+    width: 33.3%;
+}
+
+.footer-content p{
+    width: 190px;
+    margin: auto;
+    padding: 7px;
+}
+.footer-content ul{
+    text-align: center;
+}
+
+
+.socialicons{
+    display: flex;
+}
+.socialicons a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: #dbfddf;
+    margin: 10px;
+    border-radius: 48%;
+}
+.socialicon a i{
+    font-size: 2em;
+    color: #39DB4A;
+    opacity: 0.9;
+}
+
+/* Hover effects on social media icons */
+.socialicons a:hover{
+    background-color: #39DB4A;
+    transition: 0.5;
+}
+.socialicons a:hover i{
+    color: white;
+    transition: 0.5s;
+}
+
+body{
+    width: 100%;
+}
+.cardd{
+    padding: 10px;
+    font-size: 12px;
+    color: #39DB4A;
+    font-weight: bold;
+}
